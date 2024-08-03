@@ -76,6 +76,7 @@ Translated: And the point about Genocide Blog 48 – Israel loses
 ## Conclusion
 
 This Python application showcases a comprehensive pipeline for automated data extraction, translation, linguistic analysis, and supervised classification of textual data from web sources. By integrating robust libraries and tools, it facilitates efficient processing and analysis of multilingual textual data, suitable for various applications requiring automated content handling and classification.
+
 ---
 
 Thank you for checking out our project!😉 We believe in creating a better world through technology⚙️, and we hope this project contributes to that goal.👍🏻
